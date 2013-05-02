@@ -1,6 +1,6 @@
 {
   "name": "dispatch-clone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Clone a remote repo to local disk for use in dispatch server",
   "main": "index.js",
   "scripts": {
